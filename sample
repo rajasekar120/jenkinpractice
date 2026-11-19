@@ -1,8 +1,0 @@
- public class helloguys{
-	 
-	 public static void main(String[] args) {
-		System.out.println("Github sample one");
-		System.out.println("Github sample two");
-		System.out.println("Github sample three");
-	}
- }
